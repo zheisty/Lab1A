@@ -13,7 +13,7 @@ class MainClass {
 
             string total = (price + A);
 
-            string what = ("Item= ");
+            string what = ("Item Name= ");
 
             string p = ("Apple");
 
